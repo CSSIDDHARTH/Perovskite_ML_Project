@@ -1,0 +1,6 @@
+{
+  "name": "PerovScreen - Perovskite ML Platform",
+  "description": "AI-powered inverse-design recommendation and screening platform for perovskite solar cells with calibrated uncertainty quantification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
